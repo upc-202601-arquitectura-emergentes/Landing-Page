@@ -7,39 +7,21 @@ import ProfileSix from '../assets/testimonial-person-6.jpg';
 
 export const cards = [
     {
-        "name": "Emilia Rodriguez",
-        "review": "PeaceApp has completely changed how I navigate the city. Before, I used to worry about which areas were safe to walk through, especially at night. This app has truly given me peace of mind!",
+        "name": "Diego Tapia",
+        "review": "PocketGuardians has completely changed how I navigate the city. Before, I used to worry about which areas were safe to walk through, especially at night. This app has truly given me peace of mind!",
         "position": "San Miguel, Lima",
-        "profile": ProfileFour
+        "profile": ProfileOne
     },
     {
-        "name": "Marcos Tapia",
-        "review": "As a parent, PeaceApp gives me peace of mind when my kids are out and about. The app has become an essential part of our routine, and I’m so grateful for the sense of security it provides.",
+        "name": "David Veléz",
+        "review": "Thanks to PocketGuardians, I can plan my journeys with confidence, its real-time incident reports are game-changers. PocketGuardians makes a huge difference in how I feel when I'm out in the city.",
         "position": "La Molina, Lima",
         "profile": ProfileTwo
     },
     {
-        "name": "Steve Perez",
-        "review": "Thanks to PeaceApp, I can plan my journeys with confidence, its real-time incident reports are game-changers. PeaceApp makes a huge difference in how I feel when I'm out in the city.",
-        "position": "El Agustino, Lima",
+        "name": "Michael Brown",
+        "review": "As a parent, PocketGuardians gives me peace of mind when my kids are out and about. The app has become an essential part of our routine, and I’m so grateful for the sense of security it provides.",
+        "position": "San Isidro, Lima",
         "profile": ProfileThree
-    },
-    {
-        "name": "Alexandra Jimenez",
-        "review": "As a parent, PeaceApp gives me peace of mind when my kids are out and about. The app has become an essential part of our routine, and I’m so grateful for the sense of security it provides.",
-        "position": "El Agustino, Lima",
-        "profile": ProfileFive
-    },
-    {
-        "name": "Emilia Rodriguez",
-        "review": "PeaceApp has completely changed how I navigate the city. Before, I used to worry about which areas were safe to walk through, especially at night. This app has truly given me peace of mind!",
-        "position": "La Molina, Lima",
-        "profile": ProfileSix
-    },
-    {
-        "name": "Manuel Quevedo",
-        "review": "Thanks to PeaceApp, I can plan my journeys with confidence, its real-time incident reports are game-changers. PeaceApp makes a huge difference in how I feel when I'm out in the city.",
-        "position": "San Miguel, Lima",
-        "profile": ProfileOne
     }
 ]

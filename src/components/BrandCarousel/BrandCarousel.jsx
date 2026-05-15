@@ -42,7 +42,7 @@ export const BrandCarousel = () => {
             }
           </ul>
         </div>
-        <p className='text-2xl font-medium leading-normal'>Join them and make every journey<br/> worry-free with <span className='text-secondary-dark font-bold'>PeaceApp</span></p>
+        <p className='text-2xl font-medium leading-normal'>Join them and make every journey<br/> worry-free with <span className='text-secondary-dark font-bold'>PocketGuardians</span></p>
       </div>
     </section>
   )

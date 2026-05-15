@@ -27,7 +27,7 @@ export const NavMenu = ({ header, nav }) => {
                         />
                     )
                 }
-                <a href="https://peaceapp-web.netlify.app/" target="_blank">
+                <a href="https://pocketguardians-web.netlify.app/" target="_blank">
   <button>Get Started</button>
 </a>
 

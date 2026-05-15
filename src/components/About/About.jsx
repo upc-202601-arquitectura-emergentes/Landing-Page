@@ -23,7 +23,7 @@ export const About = () => {
                 md:grid-rows-1 grid-cols-1 md:grid-cols-2 gap-10 md:gap-5">
                 <div className='flex flex-col text-center md:text-start items-center md:items-start justify-center gap-10'>
                     <h1 className='text-slate-900 sm:text-5xl text-3xl font-bold font-lora tracking-normal'>What do we do?</h1>
-                    <p className='sm:text-xl text-1xl text-balance tracking-wide font-poppins leading-8'>At PeaceApp, we are a passionate team of 
+                    <p className='sm:text-xl text-1xl text-balance tracking-wide font-poppins leading-8'>At PocketGuardians, we are a passionate team of 
                         developers and dedicated to creating a<br/>safer Peru. Join us in building a safer future,<br/>one step at a time.</p>
                     <div className='flex flex-row gap-3items-center justify-center'>
                         <a

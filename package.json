@@ -1,9 +1,9 @@
 {
-  "name": "landingpage-peaceapp",
+  "name": "landingpage-pocketguardians",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://PeaceApp-UFC-4438.github.io/PeaceApp-Landing-Page",
+  "homepage": "https://PocketGuardians-UFC-4438.github.io/PocketGuardians-Landing-Page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "landingpage-peaceapp": "file:",
+    "landingpage-pocketguardians": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.23.0",

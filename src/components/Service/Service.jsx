@@ -16,7 +16,7 @@ export const Service = () => {
                 <div className="px-0 lg:px-16 flex flex-col justify-center items-center
                     md:items-start text-center md:text-start gap-10">
                     <h1 className="text-black leading-normal md:leading-normal tracking-wide text-4xl md:text-5xl">
-                        PeaceApp gives you the tools you need for a <span className="text-dark-blue font-semibold">secure</span> and <span className="text-dark-blue font-semibold">confident journey</span>
+                        PocketGuardians gives you the tools you need for a <span className="text-dark-blue font-semibold">secure</span> and <span className="text-dark-blue font-semibold">confident journey</span>
                     </h1>
                     <a href="#testimonials"><Button name="Know More" /></a>
                 </div>

@@ -16,7 +16,7 @@ export const Contact = () => {
                         <div className='block'>
                             <img className='min-w-8 min-h-8' src={emailIcon} />
                         </div>
-                        <p>peaceapp@gmail.com</p>
+                        <p>pocketguardians@gmail.com</p>
                     </div>
                     <div className='flex flex-row items-center gap-4'>
                         <div className='block'>
